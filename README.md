@@ -1,0 +1,1 @@
+![alt text](https://raw.githubusercontent.com/649/Binary-Search-Tree/master/index.png)
