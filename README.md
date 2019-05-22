@@ -2,6 +2,8 @@
 
 > Author: [@037](https://twitter.com/037)
 
+![alt text](https://raw.githubusercontent.com/649/Binary-Search-Tree/master/index.png)
+
 ### Compile
 ```
 sudo g++ -std=c++11 -o BST.exe BST.cpp
@@ -44,5 +46,3 @@ opost
 3
 e
 ```
-
-![alt text](https://raw.githubusercontent.com/649/Binary-Search-Tree/master/index.png)
