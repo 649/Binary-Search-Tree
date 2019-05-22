@@ -20,7 +20,6 @@ In the input, each starts with 'e', 'i', 'd', 'oin','opre', or 'opost'.
 
 ### Example
 
-*Input*
 ```
 i3
 i1
